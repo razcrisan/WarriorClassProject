@@ -1,0 +1,10 @@
+c:\Users\Raz\ObjectOrientedPractice\bin\Debug\netcoreapp2.0\ObjectOrientedPractice.deps.json
+c:\Users\Raz\ObjectOrientedPractice\bin\Debug\netcoreapp2.0\ObjectOrientedPractice.runtimeconfig.json
+c:\Users\Raz\ObjectOrientedPractice\bin\Debug\netcoreapp2.0\ObjectOrientedPractice.runtimeconfig.dev.json
+c:\Users\Raz\ObjectOrientedPractice\bin\Debug\netcoreapp2.0\ObjectOrientedPractice.dll
+c:\Users\Raz\ObjectOrientedPractice\bin\Debug\netcoreapp2.0\ObjectOrientedPractice.pdb
+c:\Users\Raz\ObjectOrientedPractice\obj\Debug\netcoreapp2.0\ObjectOrientedPractice.csproj.CoreCompileInputs.cache
+c:\Users\Raz\ObjectOrientedPractice\obj\Debug\netcoreapp2.0\ObjectOrientedPractice.AssemblyInfoInputs.cache
+c:\Users\Raz\ObjectOrientedPractice\obj\Debug\netcoreapp2.0\ObjectOrientedPractice.AssemblyInfo.cs
+c:\Users\Raz\ObjectOrientedPractice\obj\Debug\netcoreapp2.0\ObjectOrientedPractice.dll
+c:\Users\Raz\ObjectOrientedPractice\obj\Debug\netcoreapp2.0\ObjectOrientedPractice.pdb
